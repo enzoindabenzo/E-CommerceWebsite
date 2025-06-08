@@ -144,8 +144,6 @@ Agro BLM offers a comprehensive set of features to enhance agricultural trade:
 - ![Admin Dashboard](docs/screenshots/admin-dashboard.png) *Figure 23: Paneli i administratorit*
 - ![Admin Add Product](docs/screenshots/admin-add.png) *Figure 24: Shtimi i produktit të ri*
 
-> 📁 Place all screenshots in `docs/screenshots/` for auto-preview on GitHub. Ensure file names match the figures listed.
-
 </details>
 
 ---
@@ -236,10 +234,6 @@ Agro-commerce/
 - **PayPal Integration**: Adding PayPal REST API for digital wallet payments (expected completion: July 2025).
 - **Real-Time Chat**: Implementing Socket.IO for live customer support (expected completion: July 2025).
 
-### Planned
-- **Loyalty Program**: Earn points for purchases (e.g., 1 point per 100 ALL spent) for discounts or free products.
-- **Data Analytics**: Integrate tools like Google Analytics for user behavior analysis.
-
 </details>
 
 ---
@@ -262,7 +256,13 @@ We welcome contributions! To contribute:
 <details>
 <summary><h2>📄 License</h2></summary>
 
-Licensed under the **MIT License**. See `LICENSE` file for full details.
+<div align="center">
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+</div>
 
 </details>
 
