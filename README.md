@@ -23,7 +23,7 @@ In the root of the project, create a file named .env and add the following code:
 
 bash
 Copy code
-DATABASE_URL="mysql://username:password@localhost:3306/singitronic_nextjs"
+DATABASE_URL="mysql://root:LORI1234@localhost:3307/E.Commerce"
 NEXTAUTH_SECRET=12D16C923BA17672F89B18C1DB22A
 NEXTAUTH_URL=http://localhost:3000
 Replace username and password with your MySQL credentials.
@@ -35,7 +35,7 @@ Add the same DATABASE_URL from the previous step:
 
 bash
 Copy code
-DATABASE_URL="mysql://username:password@localhost:3306/singitronic_nextjs"
+DATABASE_URL="mysql://root:LORI1234@localhost:3307/E.Commerce"
 
 7. Install Dependencies
 Open your terminal in the root folder of the project and run:
