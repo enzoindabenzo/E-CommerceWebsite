@@ -107,29 +107,32 @@ Agro BLM offers a comprehensive set of features to enhance agricultural trade, a
 
 ### 🧑‍🌾 User Side
 
-- ![Homepage](docs/screenshots/homepage.png) *Figure 4: Pamja e faqes kryesore*
-- ![Register & Login](docs/screenshots/register-login.png) *Figure 5: Register & Login*
-- ![Product Search and Filter](docs/screenshots/product-search.png) *Figure 6: Kërkimi dhe filtrimi i produkteve*
-- ![Single Product Page](docs/screenshots/product-detail.png) *Figure 7: Shfaqja e produktit të vetëm*
-- ![Cart Page](docs/screenshots/cart.png) *Figure 8: Cart Page*
-- ![Checkout](docs/screenshots/checkout.png) *Figure 9: Checkout*
-- ![Wishlist](docs/screenshots/wishlist.png) *Figure 10: Wishlist*
-- ![Latest Offers](docs/screenshots/offers.png) *Figure 11: Ofertat e fundit*
-- ![User Communication](docs/screenshots/communication.png) *Figure 12: Komunikimi dhe angazhimi me përdoruesit*
-- ![How to Buy](docs/screenshots/how-to-buy.png) *Figure 24: Si të blejmë*
-- ![About Us](docs/screenshots/about-us.png) *Figure 17: Rreth nesh*
-- ![Company Profile](docs/screenshots/company-profile.png) *Figure 18: Profili i kompanisë*
-- ![Collaborate with Us](docs/screenshots/collaborate.png) *Figure 19: Bashkëpunoni me ne*
-- ![Terms of Use](docs/screenshots/terms.png) *Figure 20: Termat e përdorimit*
-- ![Privacy Policy](docs/screenshots/privacy-policy.png) *Figure 21: Politika e privatësisë*
-- ![Complaints Form](docs/screenshots/complaints.png) *Figure 22: Formulari i ankesave*
-- ![Partners](docs/screenshots/partners.png) *Figure 23: Partnerët*
+- ![Homepage](docs/screenshots/homepage.png) *Figure 2: Pamja e faqes kryesore*
+- ![Register & Login](docs/screenshots/register-login.png) *Figure 3: Register & Login*
+- ![Product Search and Filter](docs/screenshots/product-search.png) *Figure 4: Kërkimi dhe filtrimi i produkteve*
+- ![Single Product Page](docs/screenshots/product-detail.png) *Figure 5: Shfaqja e produktit të vetëm*
+- ![Cart Page](docs/screenshots/cart.png) *Figure 6: Cart Page*
+- ![Checkout](docs/screenshots/checkout.png) *Figure 7: Checkout*
+- ![Wishlist](docs/screenshots/wishlist.png) *Figure 8: Wishlist*
+- ![Latest Offers](docs/screenshots/offers.png) *Figure 9: Ofertat e fundit*
+- ![User Communication](docs/screenshots/communication.png) *Figure 10: Komunikimi dhe angazhimi me përdoruesit*
+- ![Loyalty Card](docs/screenshots/loyaltycard.png) *Figure 11: Karta e Besnikerise*
+- ![FAQ](docs/screenshots/loyaltycard.png) *Figure 12: Pyetjet e Bera Shpesh*
+- ![How to Buy](docs/screenshots/how-to-buy.png) *Figure 13: Si të blejmë*
+- ![About Us](docs/screenshots/aboutus.png) *Figure 14: Rreth nesh*
+- ![Company Profile](docs/screenshots/pk.png) *Figure 15: Profili i kompanisë*
+- ![Collaborate with Us](docs/screenshots/collaborate.png) *Figure 16: Bashkëpunoni me ne*
+- ![Terms of Use](docs/screenshots/terms.png) *Figure 17: Termat e përdorimit*
+- ![Privacy Policy](docs/screenshots/pp.png) *Figure 18: Politika e privatësisë*
+- ![Complaints Form](docs/screenshots/complaints.png) *Figure 19: Formulari i ankesave*
+- ![Partners](docs/screenshots/partners.png) *Figure 20: Partnerët*
 
 ### ⚙️ Admin Side
 
-- ![Orders and Products](docs/screenshots/orders-products.png) *Figure 25: Porosi dhe produkte*
+- ![Orders and Products](docs/screenshots/orders-products.png) *Figure 21: Porosi dhe produkte*
 - ![Users and Categories](docs/screenshots/users-categories.png) *Figure 26: Përdorues edhe kategori*
 - ![Admin Dashboard](docs/screenshots/admin-dashboard.png) *Figure 27: Paneli i administratorit*
+- ![Admin Add Product](docs/screenshots/admin-add.png) *Figure 27: Paneli i administratorit*
 
 > 📁 Place all screenshots in `docs/screenshots/` for auto-preview on GitHub. Ensure file names match the figures listed (e.g., `homepage.png`, `register-login.png`).
 
