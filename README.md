@@ -6,7 +6,8 @@
 
 ---
 
-## 📖 Project Overview
+<details>
+<summary><h2>📖 Project Overview</h2></summary>
 
 **Agro BLM** is an advanced e-commerce platform designed to streamline agricultural trade by connecting farmers, agribusinesses, and suppliers. It facilitates the purchase and sale of products such as specialized seeds, organic and chemical fertilizers, approved pesticides, modern equipment (e.g., small tractors, drip irrigation systems), and durable workwear for agricultural environments. The platform is intuitive, minimizing technological barriers for users with limited digital skills, and supports bulk transactions with features like price comparison, personalized offers, and secure payments.
 
@@ -14,9 +15,12 @@
 - **Target Users**: Farmers, agribusinesses, and suppliers.
 - **Key Features**: Product catalog, user authentication, secure payments, order tracking, and admin dashboard.
 
+</details>
+
 ---
 
-## 🛠️ Project Setup Guide
+<details>
+<summary><h2>🛠️ Project Setup Guide</h2></summary>
 
 ### 1. Install Prerequisites
 
@@ -27,7 +31,7 @@
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/webdeveloperALB/Agro-commerce.git
+git clone https://github.com/enzoindabenzo/E-Commerce-Website.git
 cd Agro-commerce
 ```
 
@@ -84,16 +88,19 @@ cd .. && npm run dev          # Frontend in a new terminal
 
 Navigate to: [http://localhost:3000](http://localhost:3000)
 
+</details>
+
 ---
 
-## 🌟 Features Overview
+<details>
+<summary><h2>🌟 Features Overview</h2></summary>
 
-Agro BLM offers a comprehensive set of features to enhance agricultural trade, as detailed in the project documentation:
+Agro BLM offers a comprehensive set of features to enhance agricultural trade:
 
 - 🛒 **Product Catalog**: Browse and filter products by category (e.g., seeds, pesticides), price, and availability. Example: Search for "fara domate" to find tomato seeds.
 - 🔐 **User Authentication**: Secure registration and login with JWT, email verification via SendGrid, and password recovery.
 - 💳 **Checkout and Payments**: Integrated with Stripe for secure payments, with PayPal integration in progress. Supports bulk orders (e.g., 500 kg of fertilizers).
-- ❤️ **Wishlist**: Save products for future purchases (planned, pending confirmation of implementation).
+- ❤️ **Wishlist**: Save products for future purchases.
 - 🧾 **Order Management**: Track orders with statuses like "në përpunim" or "të dorëzuar" and receive email notifications.
 - 🧠 **Admin Dashboard**: Manage users, products, orders, and categories with a centralized interface.
 - 📊 **Loyalty Program**: Earn points for purchases (planned, e.g., 1 point per 100 ALL spent) for discounts or free products.
@@ -101,9 +108,12 @@ Agro BLM offers a comprehensive set of features to enhance agricultural trade, a
 - 🔒 **Security**: JWT authentication, input sanitization, HTTPS/SSL, CSRF protection, and rate limiting.
 - 📈 **Scalability**: Redis caching, Nginx load balancing, and MySQL replication for high performance.
 
+</details>
+
 ---
 
-## 📸 User Interface & Admin Panel
+<details>
+<summary><h2>📸 User Interface & Admin Panel</h2></summary>
 
 ### 🧑‍🌾 User Side
 
@@ -116,8 +126,8 @@ Agro BLM offers a comprehensive set of features to enhance agricultural trade, a
 - ![Wishlist](docs/screenshots/wishlist.png) *Figure 8: Wishlist*
 - ![Latest Offers](docs/screenshots/offers.png) *Figure 9: Ofertat e fundit*
 - ![User Communication](docs/screenshots/communication.png) *Figure 10: Komunikimi dhe angazhimi me përdoruesit*
-- ![Loyalty Card](docs/screenshots/loyaltycard.png) *Figure 11: Karta e Besnikerise*
-- ![FAQ](docs/screenshots/loyaltycard.png) *Figure 12: Pyetjet e Bera Shpesh*
+- ![Loyalty Card](docs/screenshots/loyaltycard.png) *Figure 11: Karta e Besnikërisë*
+- ![FAQ](docs/screenshots/faq.png) *Figure 12: Pyetjet e Bëra Shpesh*
 - ![How to Buy](docs/screenshots/how-to-buy.png) *Figure 13: Si të blejmë*
 - ![About Us](docs/screenshots/aboutus.png) *Figure 14: Rreth nesh*
 - ![Company Profile](docs/screenshots/pk.png) *Figure 15: Profili i kompanisë*
@@ -130,15 +140,18 @@ Agro BLM offers a comprehensive set of features to enhance agricultural trade, a
 ### ⚙️ Admin Side
 
 - ![Orders and Products](docs/screenshots/orders-products.png) *Figure 21: Porosi dhe produkte*
-- ![Users and Categories](docs/screenshots/users-categories.png) *Figure 26: Përdorues edhe kategori*
-- ![Admin Dashboard](docs/screenshots/admin-dashboard.png) *Figure 27: Paneli i administratorit*
-- ![Admin Add Product](docs/screenshots/admin-add.png) *Figure 27: Paneli i administratorit*
+- ![Users and Categories](docs/screenshots/users-categories.png) *Figure 22: Përdorues dhe kategori*
+- ![Admin Dashboard](docs/screenshots/admin-dashboard.png) *Figure 23: Paneli i administratorit*
+- ![Admin Add Product](docs/screenshots/admin-add.png) *Figure 24: Shtimi i produktit të ri*
 
-> 📁 Place all screenshots in `docs/screenshots/` for auto-preview on GitHub. Ensure file names match the figures listed (e.g., `homepage.png`, `register-login.png`).
+> 📁 Place all screenshots in `docs/screenshots/` for auto-preview on GitHub. Ensure file names match the figures listed.
+
+</details>
 
 ---
 
-## 🧱 Tech Stack
+<details>
+<summary><h2>🧱 Tech Stack</h2></summary>
 
 | Layer         | Technologies Used                        |
 |---------------|-----------------------------------------|
@@ -150,9 +163,12 @@ Agro BLM offers a comprehensive set of features to enhance agricultural trade, a
 | **Services**  | SendGrid (email) · Socket.IO (planned)  |
 | **Dev Tools** | Nodemailer · dotenv · VS Code · HeidiSQL|
 
+</details>
+
 ---
 
-## 📂 Project Structure
+<details>
+<summary><h2>📂 Project Structure</h2></summary>
 
 ```
 Agro-commerce/
@@ -172,13 +188,18 @@ Agro-commerce/
 │   ├── config/                 # Server and database configurations
 │   ├── database/               # MySQL initialization scripts
 │   └── utils/                  # Data scripts, email sender, etc.
+├── docs/                       # Documentation and screenshots
+│   └── screenshots/            # Screenshots for README
 ├── .env                        # Root environment config
 └── server/.env                 # Backend environment config
 ```
 
+</details>
+
 ---
 
-## 🔒 Security and Scalability
+<details>
+<summary><h2>🔒 Security and Scalability</h2></summary>
 
 ### Security
 - **JWT Authentication**: 24-hour tokens for secure user sessions.
@@ -195,9 +216,12 @@ Agro-commerce/
 - **Horizontal Scaling**: Supports additional Node.js servers and MySQL master-slave replication.
 - **Monitoring**: Uses tools like Prometheus for real-time performance optimization.
 
+</details>
+
 ---
 
-## 📈 Implementation Status (as of May 25, 2025)
+<details>
+<summary><h2>📈 Implementation Status (as of May 25, 2025)</h2></summary>
 
 ### Implemented
 - **Registration and Authentication**: Secure user signup/login with JWT and email verification.
@@ -206,15 +230,22 @@ Agro-commerce/
 - **Shopping Cart**: Manage products and calculate totals with Stripe integration.
 - **Stock Management**: Suppliers update product quantities in real-time.
 - **Order Tracking**: Users track orders; admins update statuses with email notifications.
+- **Wishlist**: Save products for future purchases via `/frontend/components/WishList.js`.
 
 ### In Development
 - **PayPal Integration**: Adding PayPal REST API for digital wallet payments (expected completion: July 2025).
 - **Real-Time Chat**: Implementing Socket.IO for live customer support (expected completion: July 2025).
 
+### Planned
+- **Loyalty Program**: Earn points for purchases (e.g., 1 point per 100 ALL spent) for discounts or free products.
+- **Data Analytics**: Integrate tools like Google Analytics for user behavior analysis.
+
+</details>
+
 ---
 
-
-## 🤝 Contributing
+<details>
+<summary><h2>🤝 Contributing</h2></summary>
 
 We welcome contributions! To contribute:
 
@@ -224,22 +255,34 @@ We welcome contributions! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
+</details>
+
 ---
 
-## 📄 License
+<details>
+<summary><h2>📄 License</h2></summary>
 
 Licensed under the **MIT License**. See `LICENSE` file for full details.
 
+</details>
+
 ---
 
-## 🙏 Acknowledgements
+<details>
+<summary><h2>🙏 Acknowledgements</h2></summary>
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Stripe](https://stripe.com/)
 - [MySQL](https://www.mysql.com/)
-- [Prisma ORM](https://www.prisma.io/)
 - [Sequelize](https://sequelize.org/)
 - [SendGrid](https://sendgrid.com/)
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
+
+</details>
+
+---
+
+**Agro BLM – Empowering Albanian agriculture through technology.**
+```
