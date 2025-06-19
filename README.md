@@ -1,6 +1,6 @@
 # Agro BLM – E-Commerce Platform for Agricultural Trade
 
-![Homepage](docs/screenshots/hp.png)
+![Homepage](docs/screenshots/homepage.png)
 
 > *A powerful, full-stack e-commerce solution tailored for the agricultural sector in Albania and beyond, enabling bulk buying and selling of agricultural products through a secure, scalable, and user-friendly platform.*
 
